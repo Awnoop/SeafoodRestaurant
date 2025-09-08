@@ -1,0 +1,8 @@
+{
+  "name": "@seafood/lib",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "currency.ts",
+  "exports": { "./currency": "./currency.ts" }
+}
